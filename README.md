@@ -14,3 +14,6 @@ Practical : x
 
 ![Grades Scheme](./Grading/Marks.png)
 --->
+
+- [ ] https://github.com/sbhatore95/ISS
+- [ ] https://mycrazycollege.wixsite.com/home/sem-2-notes-assignments
