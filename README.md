@@ -1,13 +1,15 @@
-# Course Name
+# Introduction To Software Systems
 ## Professor : Full Name of Professor/s
 
-Credits : x
+_[Half Semester Course]_
 
-Lectures : x
+Credits : 2
 
-Tutorial : x
+Lectures : 1
 
-Practical : x
+Tutorial : 0
+
+Practical : 3
 
 <!---
 #### Grading Scheme
@@ -15,5 +17,12 @@ Practical : x
 ![Grades Scheme](./Grading/Marks.png)
 --->
 
+
+
+
+
+
+
+To Add
 - [ ] https://github.com/sbhatore95/ISS
 - [ ] https://mycrazycollege.wixsite.com/home/sem-2-notes-assignments
